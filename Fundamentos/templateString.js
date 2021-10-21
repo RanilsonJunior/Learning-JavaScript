@@ -7,3 +7,11 @@ const template = `
     !`
 
     console.log(concatenação, template);
+
+const sorvete = `quero comprar um sorvete`;
+
+console.log(sorvete);
+
+const agora = `${sorvete} para comer agora!`
+
+console.log(agora);
