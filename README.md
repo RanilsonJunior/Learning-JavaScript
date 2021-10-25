@@ -10,3 +10,6 @@
 * Booleanos
 * Arrays
 * Objeto
+* Var
+* Let
+* Const
