@@ -28,3 +28,17 @@
 * Lógicos
 * Unários
 * Erros
+
+
+
+## Estrutura de Controle
+<br>
+
+* If
+* If Else
+* Switch
+* While 
+* Do While
+* For
+* For In
+* Break and Continue
