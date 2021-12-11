@@ -42,3 +42,19 @@
 * For
 * For In
 * Break and Continue
+
+
+
+## Funções
+<br>
+
+* Formal Literal
+* Armazenar em uma variavel
+* Armazenar em um Array
+* Armazenar em um Atributo de Objeto
+* Passar uma Função como Parametro
+* Retornar ou Conter uma Função
+* Arguments
+* This
+* Arrow Functions
+* Funções Anônimas
