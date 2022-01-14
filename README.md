@@ -58,3 +58,5 @@
 * This
 * Arrow Functions
 * Funções Anônimas
+* Callback
+* Funções Construtoras
